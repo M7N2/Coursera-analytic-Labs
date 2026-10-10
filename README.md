@@ -13,5 +13,5 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
    - Load CustomerLoyaltyProgram.csv
    - Created dynamic and interactive dashboards. Results in the file: Advanced Dashboard.pdf
    - Load Automotive_Industry.zip
-   - Created a dashboard that provides insight into the performance of the sales and service departments.
+   - Created a dashboard that provides insight into the performance of the sales and service departments. Results in the file: Sales and Service Dashboard.pdf
 
