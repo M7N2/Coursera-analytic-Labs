@@ -10,4 +10,4 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
    - Load CarSalesByModelStart.xlsx
    - created visualizations in PivotTables: as a bar chart, line chart, column chart. Results in the file: CarSalesByModelEnd.xlsx
 4. Visualizations using Cognos Analytics
-   - 
+   -
