@@ -4,4 +4,5 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
    - Load Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START (1).csv
    - Converted to xlsx and cleaned data, results in the file: Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx
 2. Working with aggregations and pivot tables.
-   - Load 
+   - Load Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START (1).xlsx
+   - Formatted data as tables, added aggregations, created pivot tables, and applied sorting. Results in the file: 
