@@ -8,7 +8,10 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
    - Formatted data as tables, added aggregations, created pivot tables, and applied sorting. Results in the file: Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx
 3. Creating visualizations using Excel
    - Load CarSalesByModelStart.xlsx
-   - created visualizations in PivotTables: as a bar chart, line chart, column chart. Results in the file: CarSalesByModelEnd.xlsx
+   - Created visualizations in PivotTables: as a bar chart, line chart, column chart. Results in the file: CarSalesByModelEnd.xlsx
 4. Dashboards using Cognos Analytics
    - Load CustomerLoyaltyProgram.csv
    - Created dynamic and interactive dashboards. Results in the file: Advanced Dashboard.pdf
+   - Load Automotive_Industry.zip
+   - Created a dashboard that provides insight into the performance of the sales and service departments.
+
