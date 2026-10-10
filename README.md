@@ -7,4 +7,5 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
    - Load Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START (1).xlsx
    - Formatted data as tables, added aggregations, created pivot tables, and applied sorting. Results in the file: Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx
 3. Creating visualizations using Excel
-   - Load 
+   - Load CarSalesByModelStart.xlsx
+   - created visualizations in PivotTables: as a bar chart, line chart, column chart. Results in the file: CarSalesByModelEnd.xlsx
