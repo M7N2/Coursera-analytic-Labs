@@ -11,4 +11,4 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
    - created visualizations in PivotTables: as a bar chart, line chart, column chart. Results in the file: CarSalesByModelEnd.xlsx
 4. Dashboards using Cognos Analytics
    - Load CustomerLoyaltyProgram.csv
-   - Created dynamic and interactive dashboards. Results in the file: 
+   - Created dynamic and interactive dashboards. Results in the file: Advanced Dashboard.pdf
