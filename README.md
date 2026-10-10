@@ -6,3 +6,5 @@ This repository contains my solutions to exercises from  IBM Data Analyst Profes
 2. Working with aggregations and pivot tables.
    - Load Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START (1).xlsx
    - Formatted data as tables, added aggregations, created pivot tables, and applied sorting. Results in the file: Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx
+3. Creating visualizations using Excel
+   - Load 
